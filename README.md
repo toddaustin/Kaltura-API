@@ -5,3 +5,6 @@ Snippets and scripts for using the Kaltura API. Most of these use cases are not 
 ##get-entryID.js
 When a user clicks play movie, return the movie entryId.
 
+##get-playList-entryID.js
+When a user clicks play movie, or on a movie in a playlist, return the movie entryId.
+
